@@ -1,4 +1,4 @@
 # sis-project
 Student information system
 <br>
-Author-Ashwini
+Author-Ashwini G
